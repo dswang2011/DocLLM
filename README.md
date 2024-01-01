@@ -1,8 +1,8 @@
-# [DocLLM: A layout-aware generative language model for multimodal document understanding](https://github.com/dswang2011/DocLLM/blob/main/DocLLLM_preprint.pdf)
-*(arxiv version is under review)*
+# DocLLM: A layout-aware generative language model for multimodal document understanding
 
 Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu
 
+[Paper Link](https://github.com/dswang2011/DocLLM/blob/main/DocLLLM_preprint.pdf) *(arxiv version is under review)*
 
 ## Introduction 
 <p align="center">
