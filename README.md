@@ -49,4 +49,4 @@ This paper was prepared for information purposes by the [Artificial Intelligence
       institute={JPMorgan AI Research}
 }
 
-short link: http://bit.ly/docllm-jpm
+short link: http://bit.ly/jpm-docllm
