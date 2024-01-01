@@ -9,5 +9,6 @@ DocLLM: A layout-aware generative language model for multimodal document underst
       title={DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding}, 
       author={Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu},
       year={2023},
+      Month={December},
       institute={JPMorgan AI Research}
 }
