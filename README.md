@@ -13,6 +13,9 @@ Enterprise documents such as forms, invoices, receipts, reports, contracts, and 
 </p>
 
 ## Main Results
+
+We outperform SotA LLMs on 14 out of 16 datasets across all tasks with **DocLLM-7B**.
+
 | Task         | Datasets         | GPT-4+OCR | Llama2+OCR | mPLUG-DocOwl | UReader | DocLLM-1B | DocLLM-7B |
 |--------------|------------------|-----------|------------|--------------|---------|-----------|-----------|
 | **VQA**      | DocVQA           | **82.8**  | 47.4       | 62.2         | 65.4    | 61.4      | 69.5      |
