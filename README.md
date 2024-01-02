@@ -2,7 +2,7 @@
 
 Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu
 
-[*DocLLM Paper Link*](https://github.com/dswang2011/DocLLM/blob/main/DocLLLM_preprint.pdf) (*arxiv version is under review*)
+[*DocLLM Paper Link*](https://github.com/dswang2011/DocLLM/blob/main/DocLLM_preprint.pdf) (*arxiv version is under review*)
 
 ## Introduction 
 <p align="center">
