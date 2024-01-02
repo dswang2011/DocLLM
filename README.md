@@ -49,4 +49,7 @@ This paper was prepared for information purposes by the [Artificial Intelligence
       institute={JPMorgan AI Research}
 }
 
-short link: http://bit.ly/jpm-docllm
+## License 
+The contents of this repository are licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/).  
+
+Repo short-link: http://bit.ly/jpm-docllm
