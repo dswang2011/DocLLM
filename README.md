@@ -41,12 +41,13 @@ We outperform SotA LLMs on 14 out of 16 datasets across all tasks with **DocLLM-
 This paper was prepared for information purposes by the [Artificial Intelligence Research group of JPMorgan Chase \& Co and its affiliates (“JP Morgan”)](https://www.jpmorgan.com/technology/artificial-intelligence), and is not a product of the Research Department of JP Morgan.  J.P. Morgan makes no representation and warranty whatsoever and disclaims all liability for the completeness, accuracy or reliability of the information contained herein. This document is not intended as investment research or investment advice, or a recommendation, offer or solicitation for the purchase or sale of any security, financial instrument, financial product or service, or to be used in any way for evaluating the merits of participating in any transaction, and shall not constitute a solicitation under any jurisdiction or to any person, if such solicitation under such jurisdiction or to such person would be unlawful. © 2023 JP Morgan Chase \& Co. All rights reserved.
 
 ## BibTeX citation:
-@misc{2023,
-      title={DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding}, 
-      author={Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu},
+@misc{wang2023docllm,
+      title={DocLLM: A layout-aware generative language model for multimodal document understanding}, 
+      author={Dongsheng Wang and Natraj Raman and Mathieu Sibue and Zhiqiang Ma and Petr Babkin and Simerjot Kaur and Yulong Pei and Armineh Nourbakhsh and Xiaomo Liu},
       year={2023},
-      Month={December},
-      institute={JPMorgan AI Research}
+      eprint={2401.00908},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 
 ## License 
